@@ -4504,7 +4504,7 @@ input, select, textarea {
 		top: 0.75rem;
 		right: 0.75rem;
 		border: 0;
-		color: var(--smoky-black);
+		color: whitesmoke;
 		font-family: "Times New Roman", sans-serif;
 		font-size: 0.9rem;
 		font-weight: 900;
